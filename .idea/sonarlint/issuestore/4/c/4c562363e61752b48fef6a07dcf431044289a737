@@ -1,0 +1,13 @@
+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(§œ×ä8ú‡Ìš­,
+Asquid:S1989"&Add a "try/catch" block for "forward".(ˆ×Ñ]8º¤šŸ­,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ôù‡ÿÿÿÿÿ8áˆ¿›­,
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(æ×ß¸8ÇÉ¼¡­,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½üø…8ÇÉ¼¡­,
+Gsquid:S1172"+Remove this unused method parameter "time".(½üø…8ÇÉ¼¡­,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Î³óÁşÿÿÿÿ8ÇÉ¼¡­,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ç°³Ğùÿÿÿÿ8ÇÉ¼¡­,
+[squid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8øòŞš­,
+Asquid:S1989"&Add a "try/catch" block for "forward".(ˆ×Ñ]8º¤šŸ­,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ë¯ÑÅùÿÿÿÿ8ÇÉ¼¡­,
+8squid:S1220""Move this file to a named package.8ğÌ¢ı¬,
